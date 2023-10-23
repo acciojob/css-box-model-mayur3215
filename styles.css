@@ -1,8 +1,8 @@
- .box>p{
-            width: 300px;
-            background-color: lightblue;
-            border: 15px solid blue;
-            padding: 50px;
-            margin: 20px;
-        }
+ .Box{
+         width: 300px;
+         background-color: lightblue;
+         border: 15px solid blue;
+         padding: 50px;
+         margin: 20px;
+ }
 /* Your CSS Code here. */
